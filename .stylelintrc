@@ -1,0 +1,6 @@
+{
+  "ignoreFiles": ["dist/**/*"],
+  "rules": {
+    "color-named": "never"
+  }
+}
